@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jimmy Nguyen and this is my github profile: @jimmy-nguyen-data-science
-- 👀 I’m interested in web-scraping and text analytics, sports analytics, and geospatial intelligence.
-- 🌱 I’m currently learning data engineering tools and frameworks such as data pipelines and cloud solutions.
-- 💞️ I’m looking to collaborate on anything related to data cleaning, manipulation, and machine learning
+- 👋 Hi, I’m Jimmy Nguyen and this is my GitHub profile: @jimmy-nguyen-data-science
+- 👀 I’m interested in sports analytics and geospatial analysis
+- 🌱 I’m currently learning GIS tools such as ArcGIS and QGIS and data engineering frameworks such as ETL data pipelines and cloud solutions.
+- 💞️ I’m looking to collaborate on anything related to GIS and machine learning
 - 📫 How to reach me: nhanjim@berkeley.edu or jimmynguyen12@arizona.edu
 
 <!---
